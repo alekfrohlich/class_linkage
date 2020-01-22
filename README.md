@@ -1,4 +1,4 @@
-# Internal vs External Linkage: an early morning peek into the static and extern keywords of C++
+# Internal vs External Linkage: a peek into the static and extern keywords of C++
 
 The goal of this article is that, after you read it, you'll be able to tell the linkage attributes of your C++ variables and functions. This knowledge should help you in writing better header files.
 
